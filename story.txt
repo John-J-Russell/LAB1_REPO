@@ -4,8 +4,9 @@ As they progress, changes are made. Forever altering the landscape of such ficti
 
 Han Solo cleaned his kettle in less than 12 parsecs--a truly dangerous feat.
 
-<<<<<<< HEAD
-How could this possibly be resolved!?
-=======
 Suddenly, a conflict of some kind appeared!
->>>>>>> master
+
+How could this possibly be resolved!?
+
+By skillfully moving the words around, a resolution was achieved.
+
